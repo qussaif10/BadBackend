@@ -12,6 +12,8 @@
 #include <csignal>
 #include <future>
 
+// server class
+
 class Server
 {
 public:
